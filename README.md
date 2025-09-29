@@ -65,5 +65,5 @@ Students: Seeking a personalized, interactive, and self-paced learning environme
 
 Teachers: Looking for powerful tools to monitor student progress and provide data-driven interventions.
 
-# 🎯 Project Objective
+#  Project Objective
 The core objective is to develop a smart educational platform that harnesses AI to facilitate student learning and empower teacher monitoring, creating an adaptive and engaging educational ecosystem.
